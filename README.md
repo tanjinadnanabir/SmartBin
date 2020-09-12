@@ -1,2 +1,2 @@
 # SmartBin
-A automotive smart bin system
+An automotive smart bin system
